@@ -16,3 +16,5 @@ A small Python module that computes tenant storage and network egress costs acro
 Keep all your Lab 6 work in this `LAB6` folder. Lab 7 will be added to this repo later.
 
 Refer to the lab handout for instructions.
+SRN - PES2UG24CS014
+Name - Aarush Khullar 
